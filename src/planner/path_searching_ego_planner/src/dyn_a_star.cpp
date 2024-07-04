@@ -1,4 +1,4 @@
-#include "path_searching/dyn_a_star.h"
+#include "path_searching_ego_planner/dyn_a_star.h"
 
 using namespace std;
 using namespace Eigen;

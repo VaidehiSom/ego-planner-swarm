@@ -17,7 +17,7 @@ find_package(catkin REQUIRED COMPONENTS
   plan_env
   cv_bridge
   traj_utils
-  path_searching
+  path_searching_ego_planner
 )
 
 catkin_package(
